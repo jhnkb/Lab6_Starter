@@ -1,7 +1,5 @@
 // main.js
 
-// const { createElement } = require("react");
-
 // Run the init() function when the page has loaded
 window.addEventListener("DOMContentLoaded", init);
 
